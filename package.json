@@ -1,0 +1,16 @@
+{
+  "name": "pinf-proxy-js",
+  "version": "0.1.0",
+  "pm": "npm",
+  "publish": true,
+  "main": "./lib/proxy.js",
+  "dependencies": {
+    "fs-extra": "~0.6.0"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "devDependencies": {
+    "mocha": "~1.9.0"
+  }
+}
