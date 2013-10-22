@@ -5,12 +5,14 @@
   "publish": true,
   "main": "./lib/proxy.js",
   "dependencies": {
-    "fs-extra": "~0.6.0"
+    "fs-extra": "~0.6.0",
+    "http-proxy": "~0.10.3"
   },
   "scripts": {
     "test": "make test"
   },
   "devDependencies": {
-    "mocha": "~1.9.0"
+    "mocha": "~1.9.0",
+    "request": "~2.27.0"
   }
 }
