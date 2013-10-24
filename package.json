@@ -6,13 +6,14 @@
   "main": "./lib/proxy.js",
   "dependencies": {
     "fs-extra": "~0.6.0",
-    "http-proxy": "~0.10.3"
+    "http-proxy": "~0.10.3",
+    "request": "~2.27.0",
+    "empty-port": "0.0.1"
   },
   "scripts": {
     "test": "make test"
   },
   "devDependencies": {
-    "mocha": "~1.9.0",
-    "request": "~2.27.0"
+    "mocha": "~1.9.0"
   }
 }
