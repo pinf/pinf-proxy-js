@@ -1,6 +1,6 @@
 {
-  "name": "pinf-proxy-js",
-  "version": "0.1.0",
+  "name": "pinf-proxy",
+  "version": "0.1.1",
   "pm": "npm",
   "publish": true,
   "main": "./lib/proxy.js",
